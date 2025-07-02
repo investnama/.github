@@ -11,7 +11,7 @@ assignees: []
 **What happened?**  
 A clear and concise description of the issue.
 
----
+
 
 ## 🔁 Steps to Reproduce
 
@@ -20,25 +20,24 @@ A clear and concise description of the issue.
 3. Scroll down to '...'
 4. See the bug/error
 
----
 
 ## 🤔 Expected Behavior
 
 What you expected to happen.
 
----
+
 
 ## 😵 Actual Behavior
 
 What actually happened.
 
----
+
 
 ## 📸 Screenshots (if applicable)
 
 Attach screenshots or logs that help explain the issue.
 
----
+
 
 ## 🧰 Environment
 
@@ -46,9 +45,9 @@ Attach screenshots or logs that help explain the issue.
 - Browser / Platform: (e.g. Chrome 114, Node.js 18.16.0)
 - App/Library Version or Commit: (e.g. v1.2.3, commit `abc123`)
 
----
 
-## 📎 Additional Context
 
-Any other information that might help us understand or reproduce the issue.
+## 📎 Solution
+
+If you have ideas on how it could be solved, describe them here.
 
